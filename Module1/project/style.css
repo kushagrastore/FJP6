@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    justify-content: space-between; 
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+nav{
+    width: 60%;
+}
+
+h1{
+    width: 40%;
+}
+
+.badiImage{
+    width: 95vw;
+    margin: 1rem;
+    padding: 20px;
+}
+
+
+
+.container{
+    display: flex;
+    text-align: center;
+}
+
+div>div>h1{
+    text-align: right;
+}
